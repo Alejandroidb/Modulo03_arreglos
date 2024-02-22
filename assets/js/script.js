@@ -161,11 +161,11 @@ const propiedades_alquiler = [
     descripcion:
     "Este castillo posee todas las comodidades de la vida moderna en un ambiente medieval",
     ubicacion: "182 Canis Heights Drive, Los Angeles, CA 90071",
-    habitaciones: 20,
-    baños: 10,
+    habitaciones: 10,
+    baños: 5,
     costo: 7500,
     smoke: false,
-    pets: false,
+    pets: true,
   },
 ];
 const salesSection = document.getElementById("salesSection");
