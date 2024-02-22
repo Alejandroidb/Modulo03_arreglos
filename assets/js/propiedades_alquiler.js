@@ -75,14 +75,15 @@ btnInicio.addEventListener('click', function(){
     },
     {
       nombre: "Castillo medieval remodelado",
-      src: "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2021/05/house-for-sale-rydal-norman-castle-exterior-front-brightmls.jpg",
-      descripcion: "Este castillo posee todas las comodidades de la vida moderna en un ambiente medieval",
-      ubicacion: "182 Canis Heights Drive, Los Angeles, CA 90071",
-      habitaciones: 20,
-      baños: 10,
-      costo: 7500,
-      smoke: false,
-      pets: false,
+    src: "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2021/05/house-for-sale-rydal-norman-castle-exterior-front-brightmls.jpg",
+    descripcion:
+    "Este castillo posee todas las comodidades de la vida moderna en un ambiente medieval",
+    ubicacion: "182 Canis Heights Drive, Los Angeles, CA 90071",
+    habitaciones: 10,
+    baños: 5,
+    costo: 7500,
+    smoke: false,
+    pets: true,
     },
   ];
 
